@@ -6,6 +6,8 @@ Building Artificial Intelligence for social good
 
 **Username:** Napoleon Alcides Perez Arteaga.
 
+University: University of Burgos.
+Degree: Computer Science Phd
 
 **LinkedIn:** https://www.linkedin.com/in/napo1998/
 
