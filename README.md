@@ -1,6 +1,12 @@
-# Solution - World Bank Poverty Prediction Challenge 2026
+# Solution - World Bank Poverty Prediction Challenge 2026 
 
-**Username:** Napoleon Alcides Perez Arteaga
+Dedicated to a person that change my life in the last months.
+
+Building Artificial Intelligence for social good 
+
+**Username:** Napoleon Alcides Perez Arteaga.
+
+
 **LinkedIn:** https://www.linkedin.com/in/napo1998/
 
 ---
