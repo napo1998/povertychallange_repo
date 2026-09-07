@@ -8,7 +8,7 @@ Building Artificial Intelligence for social good
 
 University: University of Burgos.
 
-Degree: Computer Science Phd
+Degree: Doctor of  Computer Science
 
 **LinkedIn:** https://www.linkedin.com/in/napo1998/
 
